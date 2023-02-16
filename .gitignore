@@ -7,4 +7,5 @@ server-web.pid
 server-api.pid
 open-link.conf
 crontab_jobs.log
+package-lock.json
 # open-link-logger.py
