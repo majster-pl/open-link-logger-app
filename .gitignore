@@ -1,10 +1,10 @@
 # build
 data
-node_modules
-scripts
-server
+# node_modules
+# scripts
+# server
 server-web.pid
 server-api.pid
 open-link.conf
 crontab_jobs.log
-open-link-logger.py
+# open-link-logger.py
